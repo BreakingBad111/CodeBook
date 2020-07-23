@@ -1,4 +1,4 @@
 -[codes](/codes/)
- -[Command Line](/codes/command-line)
- -[VS Code](/codes/vs-code)
+-[Command Line](/codes/command-line/)
+-[VS Code](/codes/vs-code/)
    

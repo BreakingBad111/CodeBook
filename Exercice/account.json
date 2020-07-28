@@ -1,0 +1,26 @@
+{
+    "AccountOwner": {
+        "Id": 1,
+        "Name": "Name+Family name",
+        "Date Of Birth": [
+            "dd",
+            "mm",
+            "yyyy"
+        ]
+    },
+    "Transaction": {
+        "Id": 2,
+        "transactionType": "debit", // it can be Credit as well. 
+        "value": 765,
+        "date": "Tue Jul 28 2020 15: 52: 58 GMT+0200 (Central European Summer Time)",
+        "description": "Rent" //it can be salary
+    },
+    "Balance": {
+        "Id": "3",
+        "transactions": [
+            1,
+            2
+        ],
+        "sum": 1000
+    }
+}
